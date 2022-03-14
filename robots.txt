@@ -1,0 +1,5 @@
+# 爬虫配置文件，当我们的页面被爬虫的时候，可以设置允许和不允许访问的范围
+
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
